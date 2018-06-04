@@ -1,0 +1,30 @@
+Test 0.
+Input: 123
+Correct output: 1, 2, 3
+Output: 1, 2, 3
+
+Test 1.
+Input: 576
+Correct output: 5, 7, 6
+Output: 5, 7, 6
+
+Test 2.
+Input: 135
+Correct output: 1, 3, 5
+Output: 1, 3, 5
+
+Test 3.
+Input: 999
+Correct output: 9, 9, 9
+Output: 9, 9 , 9
+
+Test 4.
+Input: 248
+Correct output: 2, 4, 8
+Output: 2, 4, 8
+
+Test 5.
+Input: 740
+Correct output: 7, 4, 0
+Output: 7, 4, 0
+
