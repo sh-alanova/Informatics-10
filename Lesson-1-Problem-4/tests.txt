@@ -1,0 +1,30 @@
+Test 0.
+Input: 3
+Correct output: 180
+Output: 180
+
+Test 1.
+Input: 4
+Correct output: 360
+Output: 360
+
+Test 2.
+Input: 5
+Correct output: 540
+Output: 540
+
+Test 3.
+Input: 6
+Correct output: 720
+Output: 720
+
+Test 4.
+Input: 10
+Correct output: 1440
+Output: 1440
+
+Test 5.
+Input: 8
+Correct output: 1080
+Output: 1080
+
