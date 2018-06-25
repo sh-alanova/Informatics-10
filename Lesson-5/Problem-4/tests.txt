@@ -1,0 +1,35 @@
+Test 0.1.
+Input: 7
+Correct output: Summer
+Output: Summer
+
+Test 0.2.
+Input: 15
+Correct output: Wrong number
+Output: Wrong number
+
+Test 1.
+Input: 12
+Correct output: Winter
+Output: Winter
+
+Test 2.
+Input: 3
+Correct output: Spring
+Output: Spring
+
+Test 3.
+Input: 8
+Correct output: Summer
+Output:
+
+Test 4.
+Input: 11
+Correct output: Autumn
+Output: Autumn
+
+Test 5.
+Input: 34
+Correct output: Wrong number
+Output: Wrong number
+
