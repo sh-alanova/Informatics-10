@@ -1,0 +1,40 @@
+Test 0.1.
+Input: 18
+Correct output: Вам 18 лет.
+Output: Вам 18 лет.
+
+Test 0.1.
+Input: 21
+Correct output: Вам 21 год.
+Output: Вам 21 год.
+
+Test 0.1.
+Input: 22
+Correct output: Вам 22 года.
+Output: Вам 22 года.
+
+Test 1.
+Input: 11
+Correct output: Вам 11 лет.
+Output: Вам 11 лет.
+
+Test 2.
+Input: 13
+Correct output: Вам 13 лет.
+Output: Вам 13 лет.
+
+Test 3.
+Input: 41
+Correct output: Вам 41 год. 
+Output: Вам 41 год.
+
+Test 4.
+Input: 32
+Correct output: Вам 32 года.
+Output: Вам 32 года.
+
+Test 5.
+Input: 67
+Correct output: Вам 67 лет.
+Output: Вам 67 лет.
+
