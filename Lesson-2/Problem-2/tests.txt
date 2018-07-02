@@ -1,0 +1,42 @@
+Test 0.
+Input: 
+5.5 3.5
+1.5 2
+Correct output: 4.272
+Output: 4.272
+
+Test 1.
+Input: 
+1 2
+3 4
+Correct output: 2.82843
+Output: 2.82843
+
+Test 2.
+Input:
+0 0
+0 0
+Correct output: 0
+Output: 0
+
+Test 3.
+Input: 
+5 7
+1 4
+Correct output: 5
+Output: 5
+
+Test 4.
+Input: 
+8 6
+8 3
+Correct output: 3
+Output: 3
+
+Test 5.
+Input:
+-1 -2
+9 -2
+Correct output: 10
+Output: 10
+
