@@ -1,23 +1,21 @@
 #include <stdio.h>
 
 int main () {
-    int Anton, Boris, Victor;
-    scanf("%d%d%d", &Anton, &Boris, &Victor);
-    if (Anton == Boris && Boris == Victor) {
+    int anton_age, boris_age, victor_age;
+    scanf("%d%d%d", &anton_age, &boris_age, &victor_age);
+    if (anton_age == boris_age && boris_age == victor_age) {
             printf("Same age");
-    } else if (Anton > Boris && Anton > Victor) {
+    } else if (anton_age > boris_age && anton_age > victor_age) {
             printf("Anton");
-    } else if (Boris > Anton && Boris > Victor) {
+    } else if (boris_age > anton_age && boris_age > victor_age) {
             printf("Boris");
-    } else if (Victor > Anton && Victor > Boris) {
+    } else if (victor_age > anton_age && victor_age > boris_age) {
             printf("Victor");
-    } else if (Anton == Boris) {
+    } else if (anton_age == boris_age) {
             printf("Victor");
-    } else if (Anton == Victor) {
+    } else if (anton_age == victor_age) {
             printf("Boris");
-    } else if (Boris == Victor) {
+    } else if (boris_age == victor_age) {
             printf("Anton");
     }
 }
-
-
