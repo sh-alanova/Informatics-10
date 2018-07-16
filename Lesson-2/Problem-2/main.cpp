@@ -2,8 +2,9 @@
 #include <cmath>
 
 int main () {
-    float x1, y1, x2, y2;
-    scanf("%f%f%f%f", &x1, &y1, &x2, &y2);
-    float n = sqrt((x2 - x1) * (x2-x1) + (y2 - y1) * (y2-y1));
-    printf("%g", n);
+    double x1, y1, x2, y2;
+    scanf("%lf%lf%lf%lf", &x1, &y1, &x2, &y2);
+    double difference_1 = (x2 - x1), difference_2 = (y2 - y1);
+    double distance = sqrt( difference_1 * difference_1 + difference_2 * difference_2);
+    printf("%g", distance);
 }
