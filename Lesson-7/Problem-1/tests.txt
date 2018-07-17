@@ -1,0 +1,35 @@
+Test 0.1.
+Input: 80 90 10
+Correct output: YES
+Output: YES
+
+Test 0.2.
+Input: 90 90 0
+Correct output: NO
+Output: NO
+
+Test 1.
+Input: 30 60 90
+Correct output: YES 
+Output: YES
+
+Test 2.
+Input: 25 67 88
+Correct output: YES
+Output: YES
+
+Test 3.
+Input: 45 34 10
+Correct output: NO
+Output: NO
+
+Test 4.
+Input: 78 99 81
+Correct output: NO
+Output: NO
+
+Test 5.
+Input: 180 0 0
+Correct output: NO
+Output: No
+
