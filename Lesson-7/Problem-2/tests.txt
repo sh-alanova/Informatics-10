@@ -1,0 +1,30 @@
+Test 0.
+Input: 30 4
+Correct output: Saturday
+Output: Saturday
+
+Test 1.
+Input: 30 01
+Correct output: Saturday
+Output: Saturday
+
+Test 2.
+Input: 19 10 
+Correct output: Wednesday
+Output: Wednesday
+
+Test 3.
+Input: 7 11
+Correct output: Monday
+Output: Monday
+
+Test 4.
+Input: 2 6
+Correct output: Tuesday
+Output: Tuesday
+
+Test 5.
+Input: 25 12
+Correct output: Sunday
+Output: Sunday
+
