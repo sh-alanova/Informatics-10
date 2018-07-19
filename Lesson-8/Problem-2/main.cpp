@@ -34,6 +34,6 @@ int main () {
     }
     printf("%d*%d=%d", a, b, comp);
     }
-    }
+}
 
 
