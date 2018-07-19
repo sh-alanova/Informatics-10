@@ -1,0 +1,40 @@
+Test 0.1.
+Input: 18 15 16
+Correct output: Anton
+Output: Anton
+
+Test 0.2.
+Input: 17 17 15
+Correct output: Victor
+Output: Victor
+
+Test 0.3.
+Input: 14 14 14
+Correct output: Same age
+Output: Same age
+
+Test 1.
+Input: 20 22 21
+Correct output: Boris
+Output: Boris
+
+Test 2.
+Input: 35 45 45
+Correct output: Anton 
+Output: Anton
+
+Test 3.
+Input: 25 20 25
+Correct output: Boris
+Output: Boris
+
+Test 4.
+Input: 35 35 35 
+Correct output: Same age
+Output: Same age
+
+Test 5.
+Input: 56 38 78
+Correct output: Victor
+Output: Victor
+
