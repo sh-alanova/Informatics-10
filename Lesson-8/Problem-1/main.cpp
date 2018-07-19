@@ -7,6 +7,6 @@ int main () {
     while(count <= b) {
         square = count * count;
         printf("%d*%d=%d\n", count, count, square);
-        ++ count;
+        ++count;
     }
 }
