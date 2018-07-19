@@ -10,6 +10,6 @@ int main () {
 		n /= 10;
 	}
 	printf("%d", sum);
-}
+	}
 
 
