@@ -8,7 +8,7 @@ int main () {
 		digit = n % 10;
 		sum += digit;
 		n /= 10;
-	}
+    }
 	printf("%d", sum);
 	}
 
