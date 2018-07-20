@@ -1,0 +1,35 @@
+Test 0.1.
+Input: 12342
+Correct output: NO
+Output: NO
+
+Test 0.2.
+Input: 12245
+Correct output: YES
+Output: YES
+
+Test 1.
+Input: 22478
+Correct output: YES
+Output: YES
+
+Test 2.
+Input: 467883902
+Correct output: YES
+Output: YES
+
+Test 3.
+Input: 7894536273
+Correct output: NO
+Output: NO
+
+Test 4.
+Input: 984744701889
+Correct output: YES
+Output: YES
+
+Test 5.
+Input: 454518527
+Correct output: NO
+Output: NO
+
