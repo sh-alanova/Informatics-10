@@ -18,5 +18,3 @@ int main () {
     printf("NO");
     }
 }
-
-
