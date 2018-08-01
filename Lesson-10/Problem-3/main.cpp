@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
     int n;
     scanf("%d", &n);
     int k, digit, count_1, count_2;
@@ -9,9 +8,9 @@ int main()
         int j = i;
         while (j % 10 != 0 && i % (j % 10) == 0) {
                 j = j / 10;
-        if (j == 0) {
-            printf("%d ", i);
-            }
+                if (j == 0) {
+                printf("%d ", i);
+                }
         }
     }
 }
