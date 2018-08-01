@@ -15,6 +15,6 @@ int main () {
     if(count > 0) {
         printf("YES");;
     } else {
-    printf("NO");
+        printf("NO");
     }
 }
