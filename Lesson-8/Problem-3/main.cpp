@@ -13,7 +13,7 @@ int main () {
           f1 = f2;
           f2 = f;
         }
-    printf("%d", sum);
+        printf("%d", sum);
     }
 }
 
