@@ -6,7 +6,7 @@ int main () {
     if (a + b > c && a + c > b && b + c > a) {
        printf("YES");
        } else {
-       printf("NO");
+            printf("NO");
        }
 }
 
