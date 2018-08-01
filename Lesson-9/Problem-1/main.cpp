@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
     int n;
     scanf("%d", &n);
     int n_1 = n, count = 0;
@@ -12,8 +11,8 @@ int main()
     int numeral_1, numeral_2, n_2, count_1, count_2 = 0;
     while(count > 0) {
         numeral_1 = n % 10;
-         n_2 = n / 10;
-         count_1 = count;
+        n_2 = n / 10;
+        count_1 = count;
         while((count_1 - 1) > 0) {
             numeral_2 = n_2 % 10;
             if(numeral_1 == numeral_2){
@@ -28,6 +27,6 @@ int main()
     if(count_2 > 0) {
         printf("YES");
     } else {
-    printf("NO");
+        printf("NO");
     }
 }
