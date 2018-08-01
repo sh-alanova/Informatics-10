@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
     int n;
     scanf("%d", &n);
     int square, ten = 1, digit;
@@ -15,5 +14,4 @@ int main()
             printf("%d*%d=%d\n", i, i, square);
         }
     }
-
 }
