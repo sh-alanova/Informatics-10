@@ -1,0 +1,30 @@
+Test 0.
+Input: 10 -15
+Correct output: 10*(-15)=-150
+Output: 10*(-15)=-150
+
+Test 1.
+Input: 23 5
+Correct output: 23*5=115
+Output: 23*5=115
+
+Test 2.
+Input: -12 46
+Correct output: (-12)*46=-552
+Output: -12*46=-552
+
+Test 3.
+Input: 34 -67
+Correct output: 34*(-67)=-2278
+Output: 34*(-67)=-2278
+
+Test 4.
+Input: -25 -89
+Correct output: (-25)*(-89)=2225
+Output: (-25)*(-89)=2225
+
+Test 5.
+Input: 69 20
+Correct output: 69*20=1380
+Output: 69*20=1380 
+
