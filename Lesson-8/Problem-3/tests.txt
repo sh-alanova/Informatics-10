@@ -1,0 +1,34 @@
+Test 0.1.
+Input: 10000
+Correct output: 17709
+Output: 17710 (я думаю в примере ошибка)
+
+Test 0.2.
+Input: -10
+Correct output: ERROR
+Output: ERROR
+
+Test 1.
+Input: 3
+Correct output: 4
+Output: 4
+
+Test 2.
+Input: 20
+Correct output: 33
+Output: 33
+
+Test 3.
+Input: 60
+Correct output: 143
+Output: 143
+
+Test 4.
+Input: 150
+Correct output: 376
+Output: 376
+
+Test 5.
+Input: 0
+Correct output: ERROR
+Output: ERROR
