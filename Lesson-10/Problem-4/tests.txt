@@ -24,4 +24,4 @@ Input:
 4 2
 5 8
 Correct output: 0
-Output: не проходит
+Output: 0
