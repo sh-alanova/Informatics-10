@@ -1,0 +1,20 @@
+Test 0.
+Input: 0.0 0.0 3.0 3.0 2.1 1.1
+Correct output: 8.71567 1.5
+Output: 8.715674 1.500000
+
+Test 1.
+Input: 3 2 7 5 0 0
+Correct output: 17.207877 0.5
+Output: 17.207877 0.500000
+
+Test 2.
+Input: 2 -3 1 1 -6 5
+Correct output: 23.499072 12.000000
+Output: 23.499072 12.000000
+
+Test 3.
+Input: -6 1 2 4 2 -2
+Correct output: 23.088007 24.000000
+Output: 23.088007 24.000000
+
