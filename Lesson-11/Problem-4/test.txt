@@ -1,0 +1,34 @@
+Test 0.1.
+Input: 2013 
+Correct output: MMXIII 
+Output: MMXIII 
+
+Test 0.2.
+Input: 3999
+Correct output: MMMCMXCIX  
+Output: MMMCMXCIX 
+
+Test 1.
+Input: 5
+Correct output: V
+Output: V
+
+Test 2.
+Input: 9
+Correct output: IX
+Output: IX
+
+Test 3.
+Input: 1
+Correct output: I
+Output: I
+
+Test 4.
+Input: 49
+Correct output: XLIX
+Output: XLIX
+
+Test 5.
+Input: 1573
+Correct output: MDLXXIII
+Output: MDLXXIII
