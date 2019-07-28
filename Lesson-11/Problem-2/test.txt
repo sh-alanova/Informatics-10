@@ -1,0 +1,16 @@
+Test 0.
+Input: 10
+Correct output: ----------
+Output: ----------
+
+Test 1.
+Input: 3
+Correct output: ---
+Output: ---
+
+Test 2.
+Input: 1
+Correct output: -
+Output: -
+
+
