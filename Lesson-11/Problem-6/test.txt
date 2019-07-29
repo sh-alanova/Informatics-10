@@ -1,0 +1,30 @@
+Test 0.
+Input: 25 15
+Correct output: 5/3
+Output: 5/3
+
+Test 1.
+Input: 3 7
+Correct output: 3/7
+Output: 3/7
+
+Test 2.
+Input: 2 4
+Correct output: 1/2
+Output: 1/2
+
+Test 3.
+Input: 8 32
+Correct output: 1/4
+Output: 1/4
+
+Test 4.
+Input: 9 3
+Correct output: 3/1
+Output: 3/1
+
+Test 5.
+Input: 6 2
+Correct output: 3/1
+Output: 3/1
+
